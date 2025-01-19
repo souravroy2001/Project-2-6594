@@ -4,6 +4,7 @@ Overview
 
 The Employee Productivity Tracker is a web application designed to empower employees to log and track their daily tasks, fostering transparency and fairness in the workplace. The app provides actionable insights for both employees and employers, promoting enhanced productivity and collaboration.
 
+https://678d0a726223ca2f75233789--bejewelled-quokka-cb36c0.netlify.app/
 
 ---
 
