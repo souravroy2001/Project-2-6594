@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.active {
+  color: tomato;
+  /* border-bottom: 1px solid tomato; */
+}
+
+@media (max-width: 765px) {
+  #hamburger {
+    display: block;
+  }
+  #largeMenu {
+    display: none;
+  }
+
+  #phoneMenu {
+    right: 0;
+    transition: all 1s ease-in-out;
+  }
+
+  #notFound{
+    margin-top: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+}
+
+.login-page6-inner > article > section > button {
+  background: linear-gradient(
+    90deg,
+    rgba(28, 101, 197, 1) 0%,
+    rgba(227, 78, 42, 1) 50%,
+    rgba(246, 121, 35, 1) 100%
+  );
+  color: #fff;
+}
+
+#showPassword {
+    z-index: 5;
+    background-color: #37373e;
+    padding: 10px;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
