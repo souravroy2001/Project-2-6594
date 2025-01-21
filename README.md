@@ -99,7 +99,7 @@ Technologies Used
 
 Frontend:
 
-HTML, CSS, JavaScript
+React, Chakra UI
 
 Chart.js for visualizations
 
