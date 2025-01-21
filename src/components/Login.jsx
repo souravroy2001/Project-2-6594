@@ -102,13 +102,6 @@ function LoginForm() {
 
         <Username visible={false} />
         <Password visible={false} />
-        {/* <Username
-          required
-          keyname="Name"
-          index={1}
-          placeholder="Enter Name"
-          label="Name"
-        /> */}
         <Username
           required
           type="email"
